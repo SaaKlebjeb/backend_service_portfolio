@@ -2,5 +2,4 @@
 package-lock.json
 node_modules/
 student.route.js
-student.model.js
 student.controller.js
